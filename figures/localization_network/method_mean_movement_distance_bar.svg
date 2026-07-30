@@ -1,0 +1,47 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="118" y1="376.00" x2="718" y2="376.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="384.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.0</text>
+<line x1="118" y1="308.00" x2="718" y2="308.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="316.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">1.5</text>
+<line x1="118" y1="240.00" x2="718" y2="240.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="248.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">3.1</text>
+<line x1="118" y1="172.00" x2="718" y2="172.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="180.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">4.6</text>
+<line x1="118" y1="104.00" x2="718" y2="104.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="112.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">6.1</text>
+<line x1="118" y1="36.00" x2="718" y2="36.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="44.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">7.7</text>
+<rect x="149.50" y="187.60" width="87.00" height="188.40" fill="#1f77b4" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="193.00" y1="150.04" x2="193.00" y2="225.15" stroke="#111827" stroke-width="2.4"/>
+<line x1="172.12" y1="150.04" x2="213.88" y2="150.04" stroke="#111827" stroke-width="2.4"/>
+<line x1="172.12" y1="225.15" x2="213.88" y2="225.15" stroke="#111827" stroke-width="2.4"/>
+<text x="193.00" y="408" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="193.00" y="434" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif"></text>
+<text x="193.00" y="460" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<rect x="299.50" y="122.27" width="87.00" height="253.73" fill="#ff7f0e" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="343.00" y1="64.96" x2="343.00" y2="179.57" stroke="#111827" stroke-width="2.4"/>
+<line x1="322.12" y1="64.96" x2="363.88" y2="64.96" stroke="#111827" stroke-width="2.4"/>
+<line x1="322.12" y1="179.57" x2="363.88" y2="179.57" stroke="#111827" stroke-width="2.4"/>
+<text x="343.00" y="408" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">PPO with</text>
+<text x="343.00" y="434" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">AAResCNN</text>
+<text x="343.00" y="460" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<rect x="449.50" y="106.46" width="87.00" height="269.54" fill="#2ca02c" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="493.00" y1="58.52" x2="493.00" y2="154.39" stroke="#111827" stroke-width="2.4"/>
+<line x1="472.12" y1="58.52" x2="513.88" y2="58.52" stroke="#111827" stroke-width="2.4"/>
+<line x1="472.12" y1="154.39" x2="513.88" y2="154.39" stroke="#111827" stroke-width="2.4"/>
+<text x="493.00" y="408" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">PPO with</text>
+<text x="493.00" y="434" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">Hi-Loc</text>
+<text x="493.00" y="460" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<rect x="599.50" y="128.27" width="87.00" height="247.73" fill="#d62728" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="643.00" y1="81.67" x2="643.00" y2="174.87" stroke="#111827" stroke-width="2.4"/>
+<line x1="622.12" y1="81.67" x2="663.88" y2="81.67" stroke="#111827" stroke-width="2.4"/>
+<line x1="622.12" y1="174.87" x2="663.88" y2="174.87" stroke="#111827" stroke-width="2.4"/>
+<text x="643.00" y="408" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">PPO with</text>
+<text x="643.00" y="434" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">AARES</text>
+<text x="643.00" y="460" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="118" y1="376" x2="718" y2="376" stroke="#111827" stroke-width="2.6"/>
+<line x1="118" y1="36" x2="118" y2="376" stroke="#111827" stroke-width="2.6"/>
+<text x="418.0" y="510" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif">Classifier Network</text>
+<text x="40" y="256.0" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif" transform="rotate(-90 40 256.0)">Mean Movement Distance (m)</text>
+</svg>

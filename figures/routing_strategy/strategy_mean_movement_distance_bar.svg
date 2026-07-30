@@ -1,0 +1,43 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="118" y1="408.00" x2="718" y2="408.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="416.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.0</text>
+<line x1="118" y1="333.60" x2="718" y2="333.60" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="341.60" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">1.5</text>
+<line x1="118" y1="259.20" x2="718" y2="259.20" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="267.20" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">3.1</text>
+<line x1="118" y1="184.80" x2="718" y2="184.80" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="192.80" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">4.8</text>
+<line x1="118" y1="110.40" x2="718" y2="110.40" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="118.40" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">6.3</text>
+<line x1="118" y1="36.00" x2="718" y2="36.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="44.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">7.8</text>
+<rect x="149.50" y="205.53" width="87.00" height="202.47" fill="#1f77b4" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="193.00" y1="165.17" x2="193.00" y2="245.89" stroke="#111827" stroke-width="2.4"/>
+<line x1="172.12" y1="165.17" x2="213.88" y2="165.17" stroke="#111827" stroke-width="2.4"/>
+<line x1="172.12" y1="245.89" x2="213.88" y2="245.89" stroke="#111827" stroke-width="2.4"/>
+<text x="193.00" y="444" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="193.00" y="472" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<rect x="299.50" y="177.25" width="87.00" height="230.75" fill="#ff7f0e" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="343.00" y1="141.84" x2="343.00" y2="212.65" stroke="#111827" stroke-width="2.4"/>
+<line x1="322.12" y1="141.84" x2="363.88" y2="141.84" stroke="#111827" stroke-width="2.4"/>
+<line x1="322.12" y1="212.65" x2="363.88" y2="212.65" stroke="#111827" stroke-width="2.4"/>
+<text x="343.00" y="444" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">Random</text>
+<text x="343.00" y="472" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<rect x="449.50" y="99.28" width="87.00" height="308.72" fill="#2ca02c" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="493.00" y1="60.20" x2="493.00" y2="138.36" stroke="#111827" stroke-width="2.4"/>
+<line x1="472.12" y1="60.20" x2="513.88" y2="60.20" stroke="#111827" stroke-width="2.4"/>
+<line x1="472.12" y1="138.36" x2="513.88" y2="138.36" stroke="#111827" stroke-width="2.4"/>
+<text x="493.00" y="444" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">A2C</text>
+<text x="493.00" y="472" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<rect x="599.50" y="168.82" width="87.00" height="239.18" fill="#d62728" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="643.00" y1="63.71" x2="643.00" y2="273.93" stroke="#111827" stroke-width="2.4"/>
+<line x1="622.12" y1="63.71" x2="663.88" y2="63.71" stroke="#111827" stroke-width="2.4"/>
+<line x1="622.12" y1="273.93" x2="663.88" y2="273.93" stroke="#111827" stroke-width="2.4"/>
+<text x="643.00" y="444" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">MS-Loc</text>
+<text x="643.00" y="472" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="118" y1="408" x2="718" y2="408" stroke="#111827" stroke-width="2.6"/>
+<line x1="118" y1="36" x2="118" y2="408" stroke="#111827" stroke-width="2.6"/>
+<text x="418.0" y="510" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif">Path Selection Strategy</text>
+<text x="40" y="252.0" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif" transform="rotate(-90 40 252.0)">Mean Movement Distance (m)</text>
+</svg>

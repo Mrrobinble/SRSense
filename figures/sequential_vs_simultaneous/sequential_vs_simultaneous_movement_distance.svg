@@ -1,0 +1,53 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="118" y1="408.00" x2="718" y2="408.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="416.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.0</text>
+<line x1="118" y1="333.60" x2="718" y2="333.60" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="341.60" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">4.6</text>
+<line x1="118" y1="259.20" x2="718" y2="259.20" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="267.20" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">9.0</text>
+<line x1="118" y1="184.80" x2="718" y2="184.80" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="192.80" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">13.6</text>
+<line x1="118" y1="110.40" x2="718" y2="110.40" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="118.40" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">18.0</text>
+<line x1="118" y1="36.00" x2="718" y2="36.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="44.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">22.6</text>
+<rect x="144.56" y="337.54" width="68.00" height="70.46" fill="#2563eb" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="178.56" y1="323.50" x2="178.56" y2="351.59" stroke="#111827" stroke-width="2.4"/>
+<line x1="159.52" y1="323.50" x2="197.60" y2="323.50" stroke="#111827" stroke-width="2.4"/>
+<line x1="159.52" y1="351.59" x2="197.60" y2="351.59" stroke="#111827" stroke-width="2.4"/>
+<rect x="223.44" y="222.73" width="68.00" height="185.27" fill="#f97316" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="257.44" y1="190.33" x2="257.44" y2="255.12" stroke="#111827" stroke-width="2.4"/>
+<line x1="238.40" y1="190.33" x2="276.48" y2="190.33" stroke="#111827" stroke-width="2.4"/>
+<line x1="238.40" y1="255.12" x2="276.48" y2="255.12" stroke="#111827" stroke-width="2.4"/>
+<text x="218.00" y="438" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="218.00" y="466" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<rect x="344.56" y="329.38" width="68.00" height="78.62" fill="#2563eb" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="378.56" y1="317.86" x2="378.56" y2="340.89" stroke="#111827" stroke-width="2.4"/>
+<line x1="359.52" y1="317.86" x2="397.60" y2="317.86" stroke="#111827" stroke-width="2.4"/>
+<line x1="359.52" y1="340.89" x2="397.60" y2="340.89" stroke="#111827" stroke-width="2.4"/>
+<rect x="423.44" y="159.38" width="68.00" height="248.62" fill="#f97316" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="457.44" y1="123.83" x2="457.44" y2="194.94" stroke="#111827" stroke-width="2.4"/>
+<line x1="438.40" y1="123.83" x2="476.48" y2="123.83" stroke="#111827" stroke-width="2.4"/>
+<line x1="438.40" y1="194.94" x2="476.48" y2="194.94" stroke="#111827" stroke-width="2.4"/>
+<text x="418.00" y="438" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="418.00" y="466" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(4 targets)</text>
+<rect x="544.56" y="327.07" width="68.00" height="80.93" fill="#2563eb" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="578.56" y1="317.22" x2="578.56" y2="336.92" stroke="#111827" stroke-width="2.4"/>
+<line x1="559.52" y1="317.22" x2="597.60" y2="317.22" stroke="#111827" stroke-width="2.4"/>
+<line x1="559.52" y1="336.92" x2="597.60" y2="336.92" stroke="#111827" stroke-width="2.4"/>
+<rect x="623.44" y="94.62" width="68.00" height="313.38" fill="#f97316" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="657.44" y1="52.84" x2="657.44" y2="136.40" stroke="#111827" stroke-width="2.4"/>
+<line x1="638.40" y1="52.84" x2="676.48" y2="52.84" stroke="#111827" stroke-width="2.4"/>
+<line x1="638.40" y1="136.40" x2="676.48" y2="136.40" stroke="#111827" stroke-width="2.4"/>
+<text x="618.00" y="438" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="618.00" y="466" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(5 targets)</text>
+<rect x="140" y="46" width="24" height="24" fill="#2563eb" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.2"/>
+<text x="176" y="67" font-size="32" font-family="Times New Roman, Times, serif">Simultaneous</text>
+<rect x="140" y="84" width="24" height="24" fill="#f97316" fill-opacity="0.78" stroke="#1f2937" stroke-width="1.2"/>
+<text x="176" y="105" font-size="32" font-family="Times New Roman, Times, serif">Sequential</text>
+<line x1="118" y1="408" x2="718" y2="408" stroke="#111827" stroke-width="2.6"/>
+<line x1="118" y1="36" x2="118" y2="408" stroke="#111827" stroke-width="2.6"/>
+<text x="418.0" y="510" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif">Target Setting</text>
+<text x="40" y="252.0" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif" transform="rotate(-90 40 252.0)">Mean Movement Distance (m)</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="118" y1="408.00" x2="718" y2="408.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="416.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.0</text>
+<line x1="118" y1="333.60" x2="718" y2="333.60" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="341.60" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.3</text>
+<line x1="118" y1="259.20" x2="718" y2="259.20" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="267.20" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.5</text>
+<line x1="118" y1="184.80" x2="718" y2="184.80" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="192.80" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.8</text>
+<line x1="118" y1="110.40" x2="718" y2="110.40" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="118.40" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">1.0</text>
+<line x1="118" y1="36.00" x2="718" y2="36.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="44.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">1.3</text>
+<line x1="218.00" y1="92.75" x2="218.00" y2="327.01" stroke="#111827" stroke-width="2.4"/>
+<line x1="191.40" y1="92.75" x2="244.60" y2="92.75" stroke="#111827" stroke-width="2.4"/>
+<line x1="191.40" y1="327.01" x2="244.60" y2="327.01" stroke="#111827" stroke-width="2.4"/>
+<rect x="180.00" y="242.41" width="76.00" height="64.92" fill="#1f77b4" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="180.00" y1="289.73" x2="256.00" y2="289.73" stroke="#111827" stroke-width="2.7"/>
+<circle cx="218.00" cy="256.70" r="5.0" fill="#111827"/>
+<text x="218.00" y="438" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="218.00" y="466" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="418.00" y1="138.64" x2="418.00" y2="328.59" stroke="#111827" stroke-width="2.4"/>
+<line x1="391.40" y1="138.64" x2="444.60" y2="138.64" stroke="#111827" stroke-width="2.4"/>
+<line x1="391.40" y1="328.59" x2="444.60" y2="328.59" stroke="#111827" stroke-width="2.4"/>
+<rect x="380.00" y="235.33" width="76.00" height="73.45" fill="#ff7f0e" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="380.00" y1="287.30" x2="456.00" y2="287.30" stroke="#111827" stroke-width="2.7"/>
+<circle cx="418.00" cy="264.11" r="5.0" fill="#111827"/>
+<text x="418.00" y="438" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="418.00" y="466" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(4 targets)</text>
+<line x1="618.00" y1="128.94" x2="618.00" y2="326.23" stroke="#111827" stroke-width="2.4"/>
+<line x1="591.40" y1="128.94" x2="644.60" y2="128.94" stroke="#111827" stroke-width="2.4"/>
+<line x1="591.40" y1="326.23" x2="644.60" y2="326.23" stroke="#111827" stroke-width="2.4"/>
+<rect x="580.00" y="244.14" width="76.00" height="64.76" fill="#2ca02c" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="580.00" y1="286.86" x2="656.00" y2="286.86" stroke="#111827" stroke-width="2.7"/>
+<circle cx="618.00" cy="266.58" r="5.0" fill="#111827"/>
+<text x="618.00" y="438" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="618.00" y="466" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(5 targets)</text>
+<line x1="118" y1="408" x2="718" y2="408" stroke="#111827" stroke-width="2.6"/>
+<line x1="118" y1="36" x2="118" y2="408" stroke="#111827" stroke-width="2.6"/>
+<text x="418.0" y="510" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif">Target Setting</text>
+<text x="40" y="222.0" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif" transform="rotate(-90 40 222.0)">Localization Error (m)</text>
+</svg>

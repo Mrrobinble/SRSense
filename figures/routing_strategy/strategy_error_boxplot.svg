@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="118" y1="408.00" x2="718" y2="408.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="416.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.0</text>
+<line x1="118" y1="333.60" x2="718" y2="333.60" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="341.60" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.4</text>
+<line x1="118" y1="259.20" x2="718" y2="259.20" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="267.20" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.8</text>
+<line x1="118" y1="184.80" x2="718" y2="184.80" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="192.80" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">1.2</text>
+<line x1="118" y1="110.40" x2="718" y2="110.40" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="118.40" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">1.6</text>
+<line x1="118" y1="36.00" x2="718" y2="36.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="44.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">2.0</text>
+<line x1="193.00" y1="210.91" x2="193.00" y2="357.37" stroke="#111827" stroke-width="2.4"/>
+<line x1="173.05" y1="210.91" x2="212.95" y2="210.91" stroke="#111827" stroke-width="2.4"/>
+<line x1="173.05" y1="357.37" x2="212.95" y2="357.37" stroke="#111827" stroke-width="2.4"/>
+<rect x="164.50" y="304.47" width="57.00" height="40.58" fill="#1f77b4" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="164.50" y1="334.06" x2="221.50" y2="334.06" stroke="#111827" stroke-width="2.7"/>
+<circle cx="193.00" cy="313.41" r="5.0" fill="#111827"/>
+<text x="193.00" y="444" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="193.00" y="472" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="343.00" y1="92.75" x2="343.00" y2="357.81" stroke="#111827" stroke-width="2.4"/>
+<line x1="323.05" y1="92.75" x2="362.95" y2="92.75" stroke="#111827" stroke-width="2.4"/>
+<line x1="323.05" y1="357.81" x2="362.95" y2="357.81" stroke="#111827" stroke-width="2.4"/>
+<rect x="314.50" y="270.15" width="57.00" height="74.64" fill="#ff7f0e" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="314.50" y1="331.30" x2="371.50" y2="331.30" stroke="#111827" stroke-width="2.7"/>
+<circle cx="343.00" cy="290.78" r="5.0" fill="#111827"/>
+<text x="343.00" y="444" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">Random</text>
+<text x="343.00" y="472" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="493.00" y1="187.56" x2="493.00" y2="356.88" stroke="#111827" stroke-width="2.4"/>
+<line x1="473.05" y1="187.56" x2="512.95" y2="187.56" stroke="#111827" stroke-width="2.4"/>
+<line x1="473.05" y1="356.88" x2="512.95" y2="356.88" stroke="#111827" stroke-width="2.4"/>
+<rect x="464.50" y="297.96" width="57.00" height="47.26" fill="#2ca02c" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="464.50" y1="333.53" x2="521.50" y2="333.53" stroke="#111827" stroke-width="2.7"/>
+<circle cx="493.00" cy="310.74" r="5.0" fill="#111827"/>
+<text x="493.00" y="444" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">A2C</text>
+<text x="493.00" y="472" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="643.00" y1="143.29" x2="643.00" y2="358.99" stroke="#111827" stroke-width="2.4"/>
+<line x1="623.05" y1="143.29" x2="662.95" y2="143.29" stroke="#111827" stroke-width="2.4"/>
+<line x1="623.05" y1="358.99" x2="662.95" y2="358.99" stroke="#111827" stroke-width="2.4"/>
+<rect x="614.50" y="255.16" width="57.00" height="88.82" fill="#d62728" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="614.50" y1="324.20" x2="671.50" y2="324.20" stroke="#111827" stroke-width="2.7"/>
+<circle cx="643.00" cy="289.40" r="5.0" fill="#111827"/>
+<text x="643.00" y="444" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">MS-Loc</text>
+<text x="643.00" y="472" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="118" y1="408" x2="718" y2="408" stroke="#111827" stroke-width="2.6"/>
+<line x1="118" y1="36" x2="118" y2="408" stroke="#111827" stroke-width="2.6"/>
+<text x="418.0" y="510" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif">Path Selection Strategy</text>
+<text x="40" y="222.0" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif" transform="rotate(-90 40 222.0)">Localization Error (m)</text>
+</svg>

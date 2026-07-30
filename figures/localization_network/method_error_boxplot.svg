@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="118" y1="376.00" x2="718" y2="376.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="384.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.0</text>
+<line x1="118" y1="308.00" x2="718" y2="308.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="316.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">0.9</text>
+<line x1="118" y1="240.00" x2="718" y2="240.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="248.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">1.7</text>
+<line x1="118" y1="172.00" x2="718" y2="172.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="180.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">2.6</text>
+<line x1="118" y1="104.00" x2="718" y2="104.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="112.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">3.5</text>
+<line x1="118" y1="36.00" x2="718" y2="36.00" stroke="#edf2f7" stroke-width="1.3"/>
+<text x="102" y="44.00" text-anchor="end" font-size="32" font-family="Times New Roman, Times, serif">4.3</text>
+<line x1="193.00" y1="292.18" x2="193.00" y2="354.47" stroke="#111827" stroke-width="2.4"/>
+<line x1="173.05" y1="292.18" x2="212.95" y2="292.18" stroke="#111827" stroke-width="2.4"/>
+<line x1="173.05" y1="354.47" x2="212.95" y2="354.47" stroke="#111827" stroke-width="2.4"/>
+<rect x="164.50" y="331.97" width="57.00" height="17.26" fill="#1f77b4" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="164.50" y1="344.55" x2="221.50" y2="344.55" stroke="#111827" stroke-width="2.7"/>
+<circle cx="193.00" cy="335.77" r="5.0" fill="#111827"/>
+<text x="193.00" y="408" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">SRSense</text>
+<text x="193.00" y="434" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif"></text>
+<text x="193.00" y="460" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="343.00" y1="100.60" x2="343.00" y2="272.34" stroke="#111827" stroke-width="2.4"/>
+<line x1="323.05" y1="100.60" x2="362.95" y2="100.60" stroke="#111827" stroke-width="2.4"/>
+<line x1="323.05" y1="272.34" x2="362.95" y2="272.34" stroke="#111827" stroke-width="2.4"/>
+<rect x="314.50" y="157.52" width="57.00" height="77.62" fill="#ff7f0e" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="314.50" y1="201.25" x2="371.50" y2="201.25" stroke="#111827" stroke-width="2.7"/>
+<circle cx="343.00" cy="194.74" r="5.0" fill="#111827"/>
+<text x="343.00" y="408" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">PPO with</text>
+<text x="343.00" y="434" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">AAResCNN</text>
+<text x="343.00" y="460" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="493.00" y1="124.52" x2="493.00" y2="298.74" stroke="#111827" stroke-width="2.4"/>
+<line x1="473.05" y1="124.52" x2="512.95" y2="124.52" stroke="#111827" stroke-width="2.4"/>
+<line x1="473.05" y1="298.74" x2="512.95" y2="298.74" stroke="#111827" stroke-width="2.4"/>
+<rect x="464.50" y="174.18" width="57.00" height="80.95" fill="#2ca02c" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="464.50" y1="219.73" x2="521.50" y2="219.73" stroke="#111827" stroke-width="2.7"/>
+<circle cx="493.00" cy="214.11" r="5.0" fill="#111827"/>
+<text x="493.00" y="408" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">PPO with</text>
+<text x="493.00" y="434" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">Hi-Loc</text>
+<text x="493.00" y="460" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="643.00" y1="87.86" x2="643.00" y2="237.40" stroke="#111827" stroke-width="2.4"/>
+<line x1="623.05" y1="87.86" x2="662.95" y2="87.86" stroke="#111827" stroke-width="2.4"/>
+<line x1="623.05" y1="237.40" x2="662.95" y2="237.40" stroke="#111827" stroke-width="2.4"/>
+<rect x="614.50" y="135.90" width="57.00" height="62.36" fill="#d62728" fill-opacity="0.55" stroke="#111827" stroke-width="1.8"/>
+<line x1="614.50" y1="167.48" x2="671.50" y2="167.48" stroke="#111827" stroke-width="2.7"/>
+<circle cx="643.00" cy="165.92" r="5.0" fill="#111827"/>
+<text x="643.00" y="408" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">PPO with</text>
+<text x="643.00" y="434" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">AARES</text>
+<text x="643.00" y="460" text-anchor="middle" font-size="32" font-family="Times New Roman, Times, serif">(3 targets)</text>
+<line x1="118" y1="376" x2="718" y2="376" stroke="#111827" stroke-width="2.6"/>
+<line x1="118" y1="36" x2="118" y2="376" stroke="#111827" stroke-width="2.6"/>
+<text x="418.0" y="510" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif">Classifier Network</text>
+<text x="40" y="206.0" text-anchor="middle" font-size="40" font-family="Times New Roman, Times, serif" transform="rotate(-90 40 206.0)">Localization Error (m)</text>
+</svg>

@@ -1,0 +1,43 @@
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.venv-*/
+venv/
+
+# IDE and local agent settings
+.vscode/
+.idea/
+.agents/
+.agent/
+.codex/
+
+# Training and evaluation outputs
+runs*/
+checkpoints/
+logs/
+outputs/
+*.log
+nohup.out
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Full datasets are distributed separately
+data/SRS-train/
+data/SRS-check/
+data/PPO-train_target/
+data/PPO-test_target/
+
+# Archives and operating-system files
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+.DS_Store
+Thumbs.db
+desktop.ini
+
